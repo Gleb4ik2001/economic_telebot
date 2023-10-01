@@ -4,4 +4,4 @@
 <h4>py -m venv env</h4>
 <h4>pip install -r requirements.txt</h4>
 <h4>py main.py</h4>
-<a href="https://t.me/economic_test_telebot" target='_blank'>Ссылка на бота</a>
+<a href="https://t.me/economic_test_telebot" target="_blank">Ссылка на бота</a>
