@@ -45,7 +45,7 @@ def callback_handler(call:dict):
     elif call.data == 'btn_exit':
         bot.send_message(
             call.message.chat.id,
-            'Ну и пиздуй'
+            'Выход'
         )
     
     bot.edit_message_reply_markup(
